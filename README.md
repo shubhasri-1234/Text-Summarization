@@ -1,6 +1,6 @@
 # Text Extraction and Summarization using Transformer Model
 
-This project utilizes a Transformer model to extract and summarize text from various sources, such as YouTube videos, blogs, and websites. The project includes a website that takes a URL as input and generates a summary based on the desired number of sentences.Own Transformer model is creation is tried(transformer_summarization.ipynb).
+This project utilizes a Transformer model to extract and summarize text from various sources, such as YouTube videos, blogs, and websites. The project includes a website that takes a URL as input and generates a summary based on the desired number of sentences.Own Transformer model creation is tried(transformer_summarization.ipynb).
 
 This project also summarizes text using hugging face models like Pegasus,T5 and Bart(Pegasus,T5,BART.ipynb).
 
